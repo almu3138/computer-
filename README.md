@@ -1,1 +1,1 @@
-# computer-is repository for jupyter
+# computer-is a repository for jupyter
